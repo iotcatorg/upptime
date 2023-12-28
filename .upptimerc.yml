@@ -5,9 +5,9 @@ repo: upptime # The name of this repository
 sites:
   - name: iotcat
     url: https://iotcat.me
+  - name: blog
+    url: https://blog.iotcat.me
 
-assignees:
-  - IoTcat
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
