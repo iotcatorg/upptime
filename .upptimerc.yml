@@ -18,7 +18,6 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://cdn.yimian.xyz/iotcat/iotcat.png
   name: IoTcat Status
-  introTitle: "A uptime monitor and status page for IoTcat's web services."
   introMessage: This is a status page which uses **real-time** data for IoTcat's web services.
   navbar:
     - title: IoTcat
